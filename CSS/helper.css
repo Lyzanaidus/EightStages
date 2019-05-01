@@ -1,0 +1,164 @@
+.left
+{
+	float: left;
+}
+
+.right
+{
+	float: right;
+}
+
+.clearfix:after
+{
+	content: '';
+	clear: both;
+	display: table;		/*or display: block;*/
+}
+
+.pos-rel
+{
+	position: relative;
+}
+
+.pos-abs
+{
+	position: absolute;
+}
+
+.display-i li
+{
+	display: inline;
+}
+
+.display-ib
+{
+	display: inline-block;
+}
+
+.display-b
+{
+	display: block;
+}
+
+.text-i09
+{
+	font-family: 'Istok Web Regular', sans-serif;
+	font-size: 9px;
+}
+
+.text-i10
+{
+	font-family: 'Istok Web', sans-serif;
+	font-size: 10px;
+}
+
+.text-i11
+{
+	font-family: 'Istok Web Regular', sans-serif;
+	font-size: 11px;
+}
+
+/*.text-ib11
+{
+	font-family: 'Istok Web Bold', sans-serif;
+	font-size: 11px;
+}*/
+
+.text-m11
+{
+	font-family: 'Muli', sans-serif;
+	font-size: 11px;
+}
+
+.text-m13
+{
+	font-family: 'Muli', sans-serif;
+	font-size: 13px;
+}
+
+.text-m14
+{
+	font-family: 'Muli', sans-serif;
+	font-size: 13px;
+}
+
+.text-m15
+{
+	font-family: 'Muli', sans-serif;
+	font-size: 15px;
+}
+
+.text-disabled
+{
+	color: #aaaaaa;
+}
+
+.black
+{
+	color: black;
+}
+
+/*.white
+{
+	color: white;
+}*/
+
+/*.light-grey
+{
+	color: #d0d0d0;
+}*/
+
+.dark-grey
+{
+	color: #979797;
+}
+
+.red
+{
+	color: #d53f1c;
+}
+
+.green
+{
+	color: #709620;
+}
+
+.blue
+{
+	color: #309eb0;
+}
+.bold
+{
+	font-weight: bold;
+}
+
+.underline
+{
+	text-decoration: underline;
+}
+
+/*.bg-lightblue
+{
+	background-color: #cbeff6
+}
+*/
+
+.pd-0-2-0-2
+{
+	padding: 0px 2px 0px 2px;
+}
+
+.pd-0-0-0-11
+{
+	padding: 0px 0px 0px 11px;;
+}
+
+.pd-10-0-0-0
+{
+	padding: 10px 0px 0px 0px;
+}
+
+.pd10
+{
+	padding: 10px;
+}
